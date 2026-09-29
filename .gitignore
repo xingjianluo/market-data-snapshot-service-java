@@ -37,3 +37,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+# Local runtime state (WAL + checkpoint)
+market-data-state/
